@@ -9,7 +9,7 @@
 
 ### 🧶 Sobre Mim
 
-Olá! Sou a Poliana, desenvolvedora web com foco em **Front-End**.  
+Olá! Sou a Poliana,
 Atualmente estudo **Desenvolvimento Web** e estou em constante evolução como profissional criativa e apaixonada por boas interfaces.
 
 Adoro unir design com código, e estou sempre buscando novas formas de expressar ideias através da tecnologia.  
